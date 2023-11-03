@@ -1,6 +1,4 @@
 # TensorFlow-Developer-Professional-Certificate-by-DeepLearning.AI
-# Machine Learning with TensorFlow
-
 Welcome to our repository on machine learning with TensorFlow! In this course, you will learn a variety of best practices for utilizing TensorFlow, a powerful open-source machine learning framework, to train neural networks for computer vision applications and natural language processing systems.
 
 ## What you'll learn
